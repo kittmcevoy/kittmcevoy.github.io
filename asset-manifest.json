@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.837eefbc.css",
-    "main.js": "/static/js/main.79bc94f7.js",
+    "main.css": "/static/css/main.c94cd989.css",
+    "main.js": "/static/js/main.a88f2eb6.js",
     "static/js/453.acca0757.chunk.js": "/static/js/453.acca0757.chunk.js",
     "static/media/geeks-logo.png": "/static/media/geeks-logo.d30ac3403567c059d264.png",
     "static/media/CricHQ-logo.png": "/static/media/CricHQ-logo.b5c75d95123285bd49f5.png",
+    "static/media/VUW-logo.png": "/static/media/VUW-logo.ae479084f52a3aa3d3ba.png",
     "static/media/tenzing-logo.png": "/static/media/tenzing-logo.8a856d5987049ac6726d.png",
     "index.html": "/index.html",
-    "main.837eefbc.css.map": "/static/css/main.837eefbc.css.map",
-    "main.79bc94f7.js.map": "/static/js/main.79bc94f7.js.map",
+    "main.c94cd989.css.map": "/static/css/main.c94cd989.css.map",
+    "main.a88f2eb6.js.map": "/static/js/main.a88f2eb6.js.map",
     "453.acca0757.chunk.js.map": "/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.837eefbc.css",
-    "static/js/main.79bc94f7.js"
+    "static/css/main.c94cd989.css",
+    "static/js/main.a88f2eb6.js"
   ]
 }
