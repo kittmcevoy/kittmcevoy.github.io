@@ -1,15 +1,15 @@
-import ExperienceCard from './ExperienceCard.jsx'
-
-function Experience() {
+function Experience({ jobTitle, company, dates }) {
   return (
-    <div>
-        <div className="min-h-screen flex justify-center">
-          <div className="text-center">
-            <p className="text-3xl text-charcoal font-bold">Hello, my name is <span className="text-gold">Kitt McEvoy</span>.</p> 
-            <p className="text-xl text-charcoal font-bold"> I am currently a DevOps member working in the Guidewire space.</p>
-          </div>
-        </div>
+    <div className="bg-slate-300 h-36">
+      <div className="flex flex-row justify-center">
+        <div className="p-4 text-xl">Job Title: {jobTitle} </div>
+        <div className="py-4 text-xl"> | </div>
+        <div className="p-4 text-xl">Company: {company}</div>
+        <div className="py-4 text-xl"> | </div>
+        <div className="p-4 text-xl">{dates}</div>
+        
       </div>
+    </div>
   );
 }
 

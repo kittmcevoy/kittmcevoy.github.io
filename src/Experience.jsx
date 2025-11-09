@@ -7,9 +7,10 @@ function Experience() {
       <div className="fixed">
         <Header />
       </div>
-         <ExperienceCard />
-
-    </div>
+      <div className="pt-20">
+        <ExperienceCard jobTitle="DevOps Engineer" company="Tenzing" dates="September 2024 - Present"/>
+      </div>
+    </div >
   );
 }
 
