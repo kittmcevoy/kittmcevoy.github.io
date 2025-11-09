@@ -7,7 +7,8 @@ function Experience() {
       <div className="fixed">
         <Header />
       </div>
-      <ExperienceCard/>
+         <ExperienceCard />
+
     </div>
   );
 }

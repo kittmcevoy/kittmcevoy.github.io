@@ -1,7 +1,8 @@
 import { Link } from 'react-router-dom';
 
 function Header() {
-    return (
+  return (
+    <div className="sticky">
       <div className="flex flex-row px-1 justify-between items-center h-20 w-screen bg-dark-blue">
         <Link to="/">
           <h1 className="text-gold text-2xl w-max px-4"> Kitt McEvoy </h1>
@@ -16,11 +17,11 @@ function Header() {
           <Link to="/about_me">
             <button className="text-gold text-2xl hover:text-white px-4 border-b-2 border-transparent hover:border-gold"> About Me </button>
           </Link>
-        
+
         </div>
       </div>
-    );
-  }
-  
-  export default Header;
-  
+    </div>
+  );
+}
+
+export default Header;
