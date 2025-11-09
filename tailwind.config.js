@@ -8,9 +8,7 @@ module.exports = {
         'dark-blue': '#002D59',  // Dark Navy Blue
         'charcoal': '#333333',  // Charcoal Grey
         'gold': '#D4AF37',      // Elegant Gold
-        'soft-beige': '#F5F5F5', // Soft Beige/Cream
         'white': '#FFFFFF',     // Pure White
-        'coral': '#FF6F61',
       },
     },
   },
